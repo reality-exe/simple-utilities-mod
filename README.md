@@ -34,7 +34,7 @@ A Minecraft Mod that enhances the Game's HUD with some simple utilities like the
 ## Installation
 
 - Install [Fabric Loader](https://fabricmc.net/use/) on your Minecraft client
-- Download the latest Mod `.jar` from [Github](https://github.com/johnvictorfs/simple-utilities-mod/releases/latest) or from [Curseforge](https://www.curseforge.com/minecraft/mc-mods/simple-utilities)
+- Download the latest Mod `.jar` from [Github](https://github.com/reality-exe/simple-utilities-mod/releases/latest) or from [Curseforge](https://www.curseforge.com/minecraft/mc-mods/simple-utilities)
 - Put the downloaded Mod `.jar` in the `.minecraft/mods` folder
 - Done!
 
@@ -45,7 +45,7 @@ A Minecraft Mod that enhances the Game's HUD with some simple utilities like the
 Building from source
 </summary>
 
-- Clone the project with `git clone https://github.com/johnvictorfs/simple-utilities-mod.git`
+- Clone the project with `git clone https://github.com/reality-exe/simple-utilities-mod.git`
 - Cd into the project's directory `cd simple-utilities-mod`
 - Run `./gradlew build` to build the `.jar`
 - Built Mod `.jar` files will be located at `build/libs`
@@ -77,4 +77,4 @@ Planned features
     - Maybe, maybe not, the Mod is entirely Client-sided and does not require it to be installed on the Server, and mostly shows things already available to you at all times like coordinates and Cardinal directions, like an extended but simplified F3 Menu, but it has some exceptions, like very specific Game time, so some servers may not allow it, do look into the Server's rules carefully before using it, do **not** create issues here asking about that, since I won't know.
 
 - **Will you add '*X feature not present in the [Planned Features](#planned-features) section*'**?
-    - Maybe, and only if it fits with the other features of the mod, create [an issue](https://github.com/johnvictorfs/simple-utilities-mod/issues/new) about it, I only work on this project on my spare time, but I'd be happy to add wanted features if I can get around to it.
+    - Maybe, and only if it fits with the other features of the mod, create [an issue](https://github.com/reality-exe/simple-utilities-mod/issues/new) about it, I only work on this project on my spare time, but I'd be happy to add wanted features if I can get around to it.
